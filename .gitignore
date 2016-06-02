@@ -1,0 +1,6 @@
+# python byproducts
+*.py[cod]
+
+# emacs
+*~
+\#*\#
